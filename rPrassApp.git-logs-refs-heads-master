@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 9aa0b071c3c8ad42d3dac6a2ebf8fafe34cac2c1 Manus AI Agent <manus.ai@example.com> 1748098349 -0400	commit (initial): Initial commit: Project setup
+9aa0b071c3c8ad42d3dac6a2ebf8fafe34cac2c1 72132836adb716ab20df0aa6923635dd083ca3de Manus AI Agent <manus.ai@example.com> 1748153354 -0400	commit: feat: Setup modular project structure and add dependencies for 30-day plan
+72132836adb716ab20df0aa6923635dd083ca3de d60e644b7a93e44615992ae530ccc043340cdda8 Manus AI Agent <manus.ai@example.com> 1748153552 -0400	commit: feat(auth): Implement basic Login, Register, Home screens and ViewModels

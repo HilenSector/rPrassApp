@@ -1,2 +1,1 @@
-# rPrassApp
-https://github.com/HilenSector/rPrassApp.git
+# rPrass Super App

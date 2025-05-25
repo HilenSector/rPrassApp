@@ -1,0 +1,22 @@
+// settings.gradle.kts (Root project)
+
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        // Add Stripe repository if needed for their SDK
+        maven { url = uri("https://maven.google.com") } // Example, check Stripe docs
+    }
+}
+
+rootProject.name = "rPrassApp"
+include(":app")
+
